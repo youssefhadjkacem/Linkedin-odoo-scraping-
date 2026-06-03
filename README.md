@@ -35,7 +35,7 @@ An end-to-end pipeline that bridges **LinkedIn lead scraping** with **Odoo CRM c
 
 ---
 
-## 🖥️ Platform Screenshot
+
 
 <div align="center">
   <img src="1.png" alt="Odoo CRM Custom Module" width="85%" />
